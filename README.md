@@ -10,6 +10,15 @@ You can download the slides using `git`:
 2. Clone this repository: 
 `git clone https://github.com/bircibrain/facultytraining.git`
 
+You can also download PDFs of the slides, as they were presented:
+
+- [Session 1](https://github.com/bircibrain/facultytraining/raw/v1.0/MRTraining1.pdf) 
+
+The PDFs above are tagged to preserve the version that was actually presented and may differ from the current versions. Current versions of the PDFs can also be downloaded.
+
+- [Session 1](https://github.com/bircibrain/facultytraining/raw/master/MRTraining1.pdf)
+
+ 
  
 The slides are written in Markdown using the [MacDown](http://macdown.uranusjr.com) editor and presented (with minor hiccups) using [Deckset](https://www.decksetapp.com). 
 
