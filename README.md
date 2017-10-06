@@ -13,10 +13,12 @@ You can download the slides using `git`:
 You can also download PDFs of the slides, as they were presented:
 
 - [Session 1](https://github.com/bircibrain/facultytraining/raw/v1.0/MRTraining1.pdf) 
+- [Session 2](https://github.com/bircibrain/facultytraining/blob/v1.2/MRTraining2.pdf)
 
 The PDFs above are tagged to preserve the version that was actually presented and may differ from the current versions. Current versions of the PDFs can also be downloaded.
 
 - [Session 1](https://github.com/bircibrain/facultytraining/raw/master/MRTraining1.pdf)
+- [Session 2](https://github.com/bircibrain/facultytraining/raw/master/MRTraining2.pdf)
 
  
  
